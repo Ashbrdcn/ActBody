@@ -1,0 +1,390 @@
+.home-page {
+    background-color: #232222;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.home-page .div {
+    background-color: #232222;
+    overflow: hidden;
+    width: 1444px;
+    height: 1034px;
+    position: relative;
+}
+
+.home-page .overlap-group {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 203px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .text-wrapper {
+    position: absolute;
+    width: 569px;
+    height: 51px;
+    top: 23px;
+    left: 87px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--color-4);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.home-page .vector {
+    top: -1302px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .overlap {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 346px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .img {
+    top: -1159px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .div-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 489px;
+    left: 1874px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .vector-2 {
+    top: -1016px;
+    left: -6258px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .shape-body-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 632px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .vector-3 {
+    top: -874px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .overlap-2 {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 775px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .vector-4 {
+    top: -731px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .overlap-3 {
+    position: absolute;
+    width: 1444px;
+    height: 459px;
+    top: 143px;
+    left: 0;
+    background-color: #b3a0ff;
+}
+
+.home-page .woman-working-out {
+    position: absolute;
+    width: 568px;
+    height: 391px;
+    top: 27px;
+    left: 438px;
+}
+
+.home-page .play-video {
+    position: absolute;
+    width: 157px;
+    height: 157px;
+    top: 144px;
+    left: 643px;
+}
+
+.home-page .rectangle {
+    position: absolute;
+    width: 569px;
+    height: 391px;
+    top: 27px;
+    left: 437px;
+    background-color: #0000004c;
+    border-radius: 20px;
+}
+
+.home-page .bot-star-favorites {
+    position: absolute;
+    width: 34px;
+    height: 31px;
+    top: 38px;
+    left: 962px;
+}
+
+.home-page .arrow {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 48px;
+    left: 28px;
+}
+
+.home-page .user {
+    position: absolute;
+    width: 26px;
+    height: 28px;
+    top: 48px;
+    left: 1383px;
+}
+
+.home-page .text-wrapper-2 {
+    position: absolute;
+    height: 72px;
+    top: 25px;
+    left: 85px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--font-2);
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .overlap-4 {
+    position: absolute;
+    width: 566px;
+    height: 341px;
+    top: 648px;
+    left: 440px;
+}
+
+.home-page .rectangle-2 {
+    position: absolute;
+    width: 512px;
+    height: 96px;
+    top: 234px;
+    left: 28px;
+    background-color: #ffffff;
+    border-radius: 28.8px;
+}
+
+.home-page .lorem-ipsum-dolor {
+    position: absolute;
+    width: 466px;
+    height: 96px;
+    top: 122px;
+    left: 49px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .text-wrapper-3 {
+    position: absolute;
+    width: 134px;
+    height: 79px;
+    top: 43px;
+    left: 206px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #212020;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .text-wrapper-4 {
+    width: 104px;
+    height: 33px;
+    top: 266px;
+    left: 79px;
+    font-size: 14px;
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    color: var(--color-4);
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .text-wrapper-5 {
+    width: 57px;
+    height: 33px;
+    top: 266px;
+    left: 268px;
+    font-size: 14px;
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    color: var(--color-4);
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .text-wrapper-6 {
+    position: absolute;
+    width: 87px;
+    height: 33px;
+    top: 266px;
+    left: 433px;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    color: var(--color-4);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .calories {
+    position: absolute;
+    width: 14px;
+    height: 27px;
+    top: 266px;
+    left: 244px;
+}
+
+.home-page .rectangle-3 {
+    position: absolute;
+    width: 566px;
+    height: 340px;
+    top: 1px;
+    left: 0;
+    background-color: var(--color-1);
+    border-radius: 24px;
+}
+
+.home-page .rectangle-4 {
+    position: absolute;
+    width: 512px;
+    height: 96px;
+    top: 197px;
+    left: 28px;
+    background-color: #ffffff;
+    border-radius: 28.8px;
+}
+
+.home-page .p {
+    position: absolute;
+    width: 466px;
+    height: 96px;
+    top: 69px;
+    left: 48px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .text-wrapper-7 {
+    position: absolute;
+    width: 159px;
+    height: 79px;
+    top: 0;
+    left: 202px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #212020;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .text-wrapper-8 {
+    width: 70px;
+    height: 33px;
+    top: 226px;
+    left: 87px;
+    font-size: 16px;
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    color: var(--color-4);
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .text-wrapper-9 {
+    width: 36px;
+    height: 17px;
+    top: 235px;
+    left: 265px;
+    font-size: 15px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    color: var(--color-4);
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .calories-2 {
+    position: absolute;
+    width: 24px;
+    height: 31px;
+    top: 227px;
+    left: 232px;
+}
+
+.home-page .time {
+    position: absolute;
+    width: 28px;
+    height: 34px;
+    top: 226px;
+    left: 48px;
+}
+
+.home-page .work-out {
+    position: absolute;
+    width: 24px;
+    height: 33px;
+    top: 228px;
+    left: 390px;
+}

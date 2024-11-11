@@ -1,0 +1,1014 @@
+.GOAL {
+    background-color: #232222;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.GOAL .div {
+    background-color: #232222;
+    overflow: hidden;
+    width: 1444px;
+    height: 2402px;
+    position: relative;
+}
+
+.GOAL .rectangle {
+    position: absolute;
+    width: 500px;
+    height: 343px;
+    top: -4396px;
+    left: -6591px;
+}
+
+.GOAL .overlap {
+    position: absolute;
+    width: 933px;
+    height: 236px;
+    top: 472px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .text-wrapper {
+    position: absolute;
+    width: 569px;
+    height: 118px;
+    top: 56px;
+    left: 87px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--color-4);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.GOAL .vector {
+    position: absolute;
+    width: 98px;
+    height: 148px;
+    top: -3730px;
+    left: -4486px;
+}
+
+.GOAL .overlap-group {
+    position: absolute;
+    width: 933px;
+    height: 236px;
+    top: 804px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .img {
+    position: absolute;
+    width: 98px;
+    height: 148px;
+    top: -3398px;
+    left: -4486px;
+}
+
+.GOAL .div-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 236px;
+    top: 1135px;
+    left: 1874px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-2 {
+    position: absolute;
+    width: 98px;
+    height: 148px;
+    top: -3066px;
+    left: -4489px;
+}
+
+.GOAL .shape-body-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 236px;
+    top: 1467px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-3 {
+    position: absolute;
+    width: 98px;
+    height: 148px;
+    top: -2734px;
+    left: -4486px;
+}
+
+.GOAL .overlap-2 {
+    position: absolute;
+    width: 933px;
+    height: 236px;
+    top: 1799px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-4 {
+    position: absolute;
+    width: 98px;
+    height: 148px;
+    top: -2402px;
+    left: -4486px;
+}
+
+.GOAL .text-wrapper-2 {
+    position: absolute;
+    width: 171px;
+    height: 43px;
+    top: 56px;
+    left: 66px;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-weight: 700;
+    color: #e2f163;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 27.6px;
+}
+
+.GOAL .text-wrapper-3 {
+    position: absolute;
+    width: 29px;
+    height: 15px;
+    top: 72px;
+    left: 20px;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-weight: 700;
+    color: #e2f163;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 27.6px;
+    white-space: nowrap;
+}
+
+.GOAL .button {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 395px;
+    height: 57px;
+    align-items: center;
+    justify-content: center;
+    gap: var(--size-space-200);
+    padding: var(--size-space-300);
+    position: absolute;
+    top: 147px;
+    left: 524px;
+    background-color: var(--color-background-default-secondary);
+    border-radius: 20px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: var(--color-border-brand-default);
+}
+
+.GOAL .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    position: relative;
+    width: fit-content;
+    font-family: var(--single-line-body-base-font-family);
+    font-weight: var(--single-line-body-base-font-weight);
+    color: var(--color-text-brand-default);
+    font-size: var(--single-line-body-base-font-size);
+    letter-spacing: var(--single-line-body-base-letter-spacing);
+    line-height: var(--single-line-body-base-line-height);
+    white-space: nowrap;
+    font-style: var(--single-line-body-base-font-style);
+}
+
+.GOAL .user {
+    position: absolute;
+    width: 42px;
+    height: 51px;
+    top: 63px;
+    left: 1362px;
+}
+
+.GOAL .overlap-group-2 {
+    position: absolute;
+    width: 1444px;
+    height: 335px;
+    top: 237px;
+    left: 0;
+}
+
+.GOAL .rectangle-2 {
+    position: absolute;
+    width: 1444px;
+    height: 331px;
+    top: 4px;
+    left: 0;
+}
+
+.GOAL .text-wrapper-4 {
+    position: absolute;
+    width: 369px;
+    height: 74px;
+    top: 0;
+    left: 584px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #212020;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .fruit-smoothie {
+    position: absolute;
+    width: 159px;
+    height: 31px;
+    top: 241px;
+    left: 91px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #212020;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .rectangle-3 {
+    position: absolute;
+    width: 290px;
+    height: 238px;
+    top: 76px;
+    left: 71px;
+    border-radius: 16px;
+    border: 1px solid;
+    border-color: #212020;
+}
+
+.GOAL .text-wrapper-5 {
+    width: 93px;
+    height: 18px;
+    top: 279px;
+    left: 117px;
+    color: var(--font-2);
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .text-wrapper-6 {
+    width: 66px;
+    height: 19px;
+    top: 280px;
+    left: 269px;
+    color: var(--font-2);
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .calories {
+    position: absolute;
+    width: 13px;
+    height: 15px;
+    top: 280px;
+    left: 245px;
+}
+
+.GOAL .time {
+    position: absolute;
+    width: 17px;
+    height: 15px;
+    top: 280px;
+    left: 91px;
+}
+
+.GOAL .woman-helping-man {
+    width: 290px;
+    height: 159px;
+    left: 71px;
+    position: absolute;
+    top: 76px;
+}
+
+.GOAL .play-video {
+    position: absolute;
+    width: 42px;
+    height: 40px;
+    top: 212px;
+    left: 293px;
+}
+
+.GOAL .fruit-smoothie-2 {
+    position: absolute;
+    width: 159px;
+    height: 31px;
+    top: 241px;
+    left: 425px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #212020;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .rectangle-4 {
+    position: absolute;
+    width: 290px;
+    height: 238px;
+    top: 76px;
+    left: 405px;
+    border-radius: 16px;
+    border: 1px solid;
+    border-color: #212020;
+}
+
+.GOAL .text-wrapper-7 {
+    width: 93px;
+    height: 18px;
+    top: 279px;
+    left: 451px;
+    color: var(--font-2);
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .text-wrapper-8 {
+    width: 66px;
+    height: 19px;
+    top: 280px;
+    left: 603px;
+    color: var(--font-2);
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .calories-2 {
+    position: absolute;
+    width: 13px;
+    height: 15px;
+    top: 280px;
+    left: 579px;
+}
+
+.GOAL .time-2 {
+    position: absolute;
+    width: 17px;
+    height: 15px;
+    top: 280px;
+    left: 425px;
+}
+
+.GOAL .woman-helping-man-2 {
+    width: 290px;
+    height: 159px;
+    left: 405px;
+    position: absolute;
+    top: 76px;
+}
+
+.GOAL .play-video-2 {
+    position: absolute;
+    width: 42px;
+    height: 40px;
+    top: 212px;
+    left: 627px;
+}
+
+.GOAL .rectangle-5 {
+    position: absolute;
+    width: 291px;
+    height: 232px;
+    top: 76px;
+    left: 760px;
+    border-radius: 16px;
+    border: 1px solid;
+    border-color: #212020;
+}
+
+.GOAL .woman-helping-man-3 {
+    width: 291px;
+    height: 164px;
+    left: 760px;
+    position: absolute;
+    top: 76px;
+}
+
+.GOAL .salads-with-quinoa {
+    position: absolute;
+    width: 219px;
+    height: 33px;
+    top: 251px;
+    left: 780px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #212020;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .time-3 {
+    position: absolute;
+    width: 17px;
+    height: 16px;
+    top: 286px;
+    left: 782px;
+}
+
+.GOAL .text-wrapper-9 {
+    width: 93px;
+    height: 20px;
+    top: 285px;
+    left: 808px;
+    color: var(--font-2);
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .calories-3 {
+    position: absolute;
+    width: 14px;
+    height: 16px;
+    top: 286px;
+    left: 936px;
+}
+
+.GOAL .text-wrapper-10 {
+    width: 67px;
+    height: 20px;
+    top: 287px;
+    left: 960px;
+    color: var(--font-2);
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .vector-5 {
+    position: absolute;
+    width: 10px;
+    height: 12px;
+    top: 221px;
+    left: 991px;
+}
+
+.GOAL .rectangle-6 {
+    position: absolute;
+    width: 291px;
+    height: 238px;
+    top: 76px;
+    left: 1100px;
+    border-radius: 16px;
+    border: 1px solid;
+    border-color: #212020;
+}
+
+.GOAL .woman-helping-man-4 {
+    width: 291px;
+    height: 164px;
+    left: 1100px;
+    position: absolute;
+    top: 76px;
+}
+
+.GOAL .salads-with-quinoa-2 {
+    position: absolute;
+    width: 219px;
+    height: 33px;
+    top: 251px;
+    left: 1120px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #212020;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .time-4 {
+    position: absolute;
+    width: 17px;
+    height: 16px;
+    top: 286px;
+    left: 1122px;
+}
+
+.GOAL .text-wrapper-11 {
+    width: 93px;
+    height: 20px;
+    top: 285px;
+    left: 1148px;
+    color: var(--font-2);
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .calories-4 {
+    position: absolute;
+    width: 14px;
+    height: 16px;
+    top: 286px;
+    left: 1276px;
+}
+
+.GOAL .text-wrapper-12 {
+    width: 67px;
+    height: 20px;
+    top: 287px;
+    left: 1300px;
+    color: var(--font-2);
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .vector-6 {
+    position: absolute;
+    width: 10px;
+    height: 12px;
+    top: 221px;
+    left: 1331px;
+}
+
+.GOAL .explore-our-meal {
+    position: absolute;
+    width: 737px;
+    height: 73px;
+    top: 583px;
+    left: 71px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #e2f163;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .overlap-3 {
+    position: absolute;
+    width: 612px;
+    height: 207px;
+    top: 717px;
+    left: 66px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.GOAL .text-wrapper-13 {
+    position: absolute;
+    width: 258px;
+    height: 68px;
+    top: 50px;
+    left: 38px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #212020;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 18px;
+}
+
+.GOAL .text-wrapper-14 {
+    width: 89px;
+    height: 20px;
+    top: 154px;
+    left: 63px;
+    color: #212020;
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .calories-5 {
+    position: absolute;
+    width: 13px;
+    height: 17px;
+    top: 154px;
+    left: 184px;
+}
+
+.GOAL .text-wrapper-15 {
+    width: 75px;
+    height: 21px;
+    top: 153px;
+    left: 203px;
+    color: #212020;
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .bot-star-favorites-wrapper {
+    position: absolute;
+    width: 316px;
+    height: 207px;
+    top: 0;
+    left: 296px;
+    background-image: url(./img/image-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.GOAL .bot-star-favorites {
+    top: 14px;
+    left: 277px;
+    position: absolute;
+    width: 26px;
+    height: 30px;
+}
+
+.GOAL .overlap-4 {
+    position: absolute;
+    width: 571px;
+    height: 207px;
+    top: 704px;
+    left: 791px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.GOAL .baked-salmon {
+    position: absolute;
+    width: 240px;
+    height: 33px;
+    top: 71px;
+    left: 36px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #212020;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 18px;
+}
+
+.GOAL .text-wrapper-16 {
+    width: 93px;
+    height: 20px;
+    top: 114px;
+    left: 61px;
+    color: #212020;
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .text-wrapper-17 {
+    width: 69px;
+    height: 20px;
+    top: 115px;
+    left: 191px;
+    color: #212020;
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .calories-6 {
+    position: absolute;
+    width: 13px;
+    height: 16px;
+    top: 115px;
+    left: 173px;
+}
+
+.GOAL .time-5 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 115px;
+    left: 36px;
+}
+
+.GOAL .img-wrapper {
+    position: absolute;
+    width: 261px;
+    height: 207px;
+    top: 0;
+    left: 310px;
+    background-image: url(./img/woman-helping-man-gym-3.png);
+    background-size: 100% 100%;
+}
+
+.GOAL .bot-star-favorites-2 {
+    position: absolute;
+    width: 26px;
+    height: 30px;
+    top: 13px;
+    left: 223px;
+}
+
+.GOAL .overlap-5 {
+    position: absolute;
+    width: 612px;
+    height: 207px;
+    top: 1021px;
+    left: 66px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.GOAL .overlap-6 {
+    position: absolute;
+    width: 280px;
+    height: 207px;
+    top: 0;
+    left: 332px;
+    background-image: url(./img/woman-helping-man-gym-4.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.GOAL .bot-star-favorites-3 {
+    top: 0;
+    left: 241px;
+    position: absolute;
+    width: 26px;
+    height: 30px;
+}
+
+.GOAL .time-6 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 134px;
+    left: 38px;
+}
+
+.GOAL .text-wrapper-18 {
+    width: 89px;
+    height: 20px;
+    top: 133px;
+    left: 64px;
+    color: #212020;
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .calories-7 {
+    position: absolute;
+    width: 13px;
+    height: 17px;
+    top: 134px;
+    left: 186px;
+}
+
+.GOAL .text-wrapper-19 {
+    width: 75px;
+    height: 21px;
+    top: 133px;
+    left: 205px;
+    color: #212020;
+    position: absolute;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.GOAL .overlap-7 {
+    position: absolute;
+    width: 571px;
+    height: 207px;
+    top: 1008px;
+    left: 791px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.GOAL .overlap-8 {
+    position: absolute;
+    width: 261px;
+    height: 207px;
+    top: 0;
+    left: 310px;
+    background-image: url(./img/woman-helping-man-gym-5.png);
+    background-size: 100% 100%;
+}
+
+.GOAL .user-single-neutral {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 1279px;
+    left: 250px;
+}
+
+.GOAL .overlap-9 {
+    position: absolute;
+    width: 612px;
+    height: 207px;
+    top: 1316px;
+    left: 66px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.GOAL .overlap-10 {
+    position: absolute;
+    width: 280px;
+    height: 207px;
+    top: 0;
+    left: 332px;
+    background-image: url(./img/woman-helping-man-gym-6.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.GOAL .overlap-11 {
+    position: absolute;
+    width: 571px;
+    height: 207px;
+    top: 1303px;
+    left: 791px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.GOAL .overlap-12 {
+    position: absolute;
+    width: 261px;
+    height: 207px;
+    top: 0;
+    left: 310px;
+    background-image: url(./img/woman-helping-man-gym-7.png);
+    background-size: 100% 100%;
+}
+
+.GOAL .user-single-neutral-2 {
+    top: 1598px;
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 250px;
+}
+
+.GOAL .overlap-13 {
+    position: absolute;
+    width: 612px;
+    height: 207px;
+    top: 1635px;
+    left: 66px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.GOAL .overlap-14 {
+    position: absolute;
+    width: 280px;
+    height: 207px;
+    top: 0;
+    left: 332px;
+    background-image: url(./img/woman-helping-man-gym-8.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.GOAL .overlap-15 {
+    position: absolute;
+    width: 571px;
+    height: 207px;
+    top: 1622px;
+    left: 791px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.GOAL .overlap-16 {
+    position: absolute;
+    width: 261px;
+    height: 207px;
+    top: 0;
+    left: 310px;
+    background-image: url(./img/woman-helping-man-gym-9.png);
+    background-size: 100% 100%;
+}
+
+.GOAL .user-single-neutral-3 {
+    top: 1893px;
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 250px;
+}
+
+.GOAL .overlap-17 {
+    position: absolute;
+    width: 612px;
+    height: 207px;
+    top: 1930px;
+    left: 66px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.GOAL .overlap-18 {
+    position: absolute;
+    width: 280px;
+    height: 207px;
+    top: 0;
+    left: 332px;
+    background-image: url(./img/woman-helping-man-gym-10.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.GOAL .overlap-19 {
+    position: absolute;
+    width: 571px;
+    height: 207px;
+    top: 1917px;
+    left: 791px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.GOAL .overlap-20 {
+    position: absolute;
+    width: 261px;
+    height: 207px;
+    top: 0;
+    left: 310px;
+    background-image: url(./img/woman-helping-man-gym-11.png);
+    background-size: 100% 100%;
+}
+
+.GOAL .overlap-21 {
+    position: absolute;
+    width: 1444px;
+    height: 210px;
+    top: 2192px;
+    left: 0;
+    background-image: url(./img/rectangle-194.svg);
+    background-size: 100% 100%;
+}
+
+.GOAL .p {
+    position: absolute;
+    width: 1410px;
+    height: 138px;
+    top: 47px;
+    left: 24px;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    color: var(--font-2);
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 14px;
+    text-decoration: underline;
+}

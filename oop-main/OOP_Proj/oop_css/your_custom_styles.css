@@ -1,0 +1,128 @@
+/* General Styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #232222;
+    color: #ffffff;
+}
+
+/* Header Styling */
+header {
+    background-color: #896cfe;
+    color: #e2f163;
+    padding: 2rem;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+/* Intro Section */
+section img.bgm-main {
+    width: 100%;
+    height: auto;
+    margin: 1rem 0;
+}
+
+.intro-text {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #e2f163;
+    padding: 1rem;
+}
+
+/* Levels Section */
+.card {
+    background-color: #232222;
+    border-radius: 15px;
+    border: none;
+    overflow: hidden;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+.card-body h5 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #e2f163;
+}
+
+.card-body p {
+    font-size: 1rem;
+    color: #ffffff;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #896cfe;
+    padding: 1rem 0;
+}
+
+footer a {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 1rem;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.text-white {
+    color: #ffffff !important;
+}
+
+.bg-primary {
+    background-color: #896cfe !important;
+}
+
+.bg-dark {
+    background-color: #232222 !important;
+}
+
+.bg-secondary {
+    background-color: #e2f163 !important;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    header {
+        padding: 1.5rem;
+        font-size: 1rem;
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .card-body {
+        padding: 1rem;
+    }
+
+    .card img {
+        height: auto;
+    }
+
+    footer a {
+        font-size: 0.9rem;
+    }
+}

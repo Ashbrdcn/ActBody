@@ -1,0 +1,345 @@
+.GOAL {
+    background-color: #232222;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.GOAL .div {
+    background-color: #232222;
+    overflow: hidden;
+    width: 1444px;
+    height: 1034px;
+    position: relative;
+}
+
+.GOAL .overlap {
+    position: absolute;
+    width: 1834px;
+    height: 770px;
+    top: 206px;
+    left: -390px;
+}
+
+.GOAL .rectangle {
+    position: absolute;
+    width: 1444px;
+    height: 677px;
+    top: 0;
+    left: 390px;
+}
+
+.GOAL .component {
+    position: absolute;
+    top: 164px;
+    left: 907px;
+    width: 410px;
+    height: 72px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector {
+    position: absolute;
+    width: 46px;
+    height: 48px;
+    top: 12px;
+    left: 350px;
+}
+
+.GOAL .text-wrapper {
+    position: absolute;
+    width: 250px;
+    height: 36px;
+    top: 16px;
+    left: 38px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--color-4);
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.GOAL .img {
+    position: absolute;
+    width: 500px;
+    height: 343px;
+    top: 428px;
+    left: 0;
+}
+
+.GOAL .WHAT-is-YOUR-GOAL {
+    position: absolute;
+    width: 857px;
+    height: 85px;
+    top: 37px;
+    left: 772px;
+    font-family: "Post No Bills Colombo-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--font-2);
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GOAL .rectangle-2 {
+    position: absolute;
+    width: 137px;
+    height: 56px;
+    top: 606px;
+    left: 1043px;
+    background-color: #e2f163;
+    border-radius: 50px;
+}
+
+.GOAL .text-wrapper-2 {
+    position: absolute;
+    width: 155px;
+    height: 36px;
+    top: 615px;
+    left: 1034px;
+    font-family: "Post No Bills Colombo ExtraBold-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.GOAL .overlap-group {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 203px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .text-wrapper-3 {
+    position: absolute;
+    width: 569px;
+    height: 51px;
+    top: 23px;
+    left: 87px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--color-4);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.GOAL .vector-2 {
+    position: absolute;
+    width: 98px;
+    height: 64px;
+    top: 1006px;
+    left: 1715px;
+}
+
+.GOAL .gain-weight-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 346px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-3 {
+    position: absolute;
+    width: 98px;
+    height: 64px;
+    top: 1149px;
+    left: 1715px;
+}
+
+.GOAL .div-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 489px;
+    left: 1874px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-4 {
+    position: absolute;
+    width: 98px;
+    height: 64px;
+    top: 1292px;
+    left: 1712px;
+}
+
+.GOAL .shape-body-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 632px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-5 {
+    position: absolute;
+    width: 98px;
+    height: 64px;
+    top: 1434px;
+    left: 1715px;
+}
+
+.GOAL .overlap-2 {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 775px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-6 {
+    position: absolute;
+    width: 98px;
+    height: 64px;
+    top: 1577px;
+    left: 1715px;
+}
+
+.GOAL .text-wrapper-4 {
+    position: absolute;
+    width: 171px;
+    height: 43px;
+    top: 56px;
+    left: 66px;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-weight: 700;
+    color: #e2f163;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 27.6px;
+}
+
+.GOAL .text-wrapper-5 {
+    position: absolute;
+    width: 29px;
+    height: 15px;
+    top: 72px;
+    left: 20px;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-weight: 700;
+    color: #e2f163;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 27.6px;
+    white-space: nowrap;
+}
+
+.GOAL .text-wrapper-6 {
+    position: absolute;
+    width: 228px;
+    height: 43px;
+    top: 56px;
+    left: 684px;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-weight: 700;
+    color: #e2f163;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 27.6px;
+}
+
+.GOAL .overlap-3 {
+    position: absolute;
+    width: 450px;
+    height: 72px;
+    top: 102px;
+    left: 497px;
+}
+
+.GOAL .active-body {
+    position: absolute;
+    width: 450px;
+    height: 40px;
+    top: 15px;
+    left: 0;
+    font-family: "Poppins-BoldItalic", Helvetica;
+    font-weight: 700;
+    font-style: italic;
+    color: #e2f163;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GOAL .express {
+    position: absolute;
+    width: 70px;
+    height: 72px;
+    top: 0;
+    left: 380px;
+    object-fit: cover;
+}
+
+.GOAL .component-2 {
+    position: fixed;
+    top: 637px;
+    left: 517px;
+    width: 410px;
+    height: 72px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .component-3 {
+    position: fixed;
+    top: 462px;
+    left: 517px;
+    width: 410px;
+    height: 72px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .text-wrapper-7 {
+    position: absolute;
+    width: 250px;
+    height: 36px;
+    top: 16px;
+    left: 38px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--color-4);
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.GOAL .component-4 {
+    position: fixed;
+    top: 547px;
+    left: 517px;
+    width: 410px;
+    height: 72px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .component-5 {
+    position: fixed;
+    top: 722px;
+    left: 517px;
+    width: 410px;
+    height: 72px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}

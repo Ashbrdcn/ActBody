@@ -1,0 +1,327 @@
+.GOAL {
+    background-color: #232222;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.GOAL .div {
+    background-color: #232222;
+    overflow: hidden;
+    width: 1444px;
+    height: 1034px;
+    position: relative;
+}
+
+.GOAL .overlap {
+    position: absolute;
+    width: 1444px;
+    height: 677px;
+    top: 207px;
+    left: 0;
+    background-image: url(./img/rectangle-176.svg);
+    background-size: 100% 100%;
+}
+
+.GOAL .component {
+    position: absolute;
+    top: 163px;
+    width: 569px;
+    height: 113px;
+    left: 437px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector {
+    position: absolute;
+    width: 63px;
+    height: 74px;
+    top: 19px;
+    left: 486px;
+}
+
+.GOAL .text-wrapper {
+    position: absolute;
+    width: 347px;
+    height: 56px;
+    top: 26px;
+    left: 53px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--color-4);
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.GOAL .PHYSICAL-ACTIVITY {
+    position: absolute;
+    width: 941px;
+    height: 85px;
+    top: 46px;
+    left: 251px;
+    font-family: "Post No Bills Colombo-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--font-2);
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GOAL .overlap-group {
+    position: absolute;
+    width: 155px;
+    height: 57px;
+    top: 596px;
+    left: 644px;
+}
+
+.GOAL .rectangle {
+    position: absolute;
+    width: 137px;
+    height: 57px;
+    top: 0;
+    left: 9px;
+    background-color: #e2f163;
+    border-radius: 50px;
+}
+
+.GOAL .text-wrapper-2 {
+    width: 155px;
+    height: 37px;
+    top: 9px;
+    left: 0;
+    font-family: "Post No Bills Colombo ExtraBold-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    line-height: 14px;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.GOAL .img {
+    position: absolute;
+    width: 500px;
+    height: 343px;
+    top: 634px;
+    left: -1917px;
+}
+
+.GOAL .lose-weight-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 203px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .text-wrapper-3 {
+    position: absolute;
+    width: 569px;
+    height: 51px;
+    top: 23px;
+    left: 87px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--color-4);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.GOAL .vector-2 {
+    position: absolute;
+    width: 98px;
+    height: 64px;
+    top: 1006px;
+    left: 188px;
+}
+
+.GOAL .gain-weight-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 346px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-3 {
+    position: absolute;
+    width: 98px;
+    height: 64px;
+    top: 1149px;
+    left: 188px;
+}
+
+.GOAL .div-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 489px;
+    left: 1874px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-4 {
+    position: absolute;
+    width: 98px;
+    height: 64px;
+    top: 1292px;
+    left: 185px;
+}
+
+.GOAL .shape-body-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 632px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-5 {
+    position: absolute;
+    width: 98px;
+    height: 64px;
+    top: 1434px;
+    left: 188px;
+}
+
+.GOAL .overlap-group-2 {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 775px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .vector-6 {
+    position: absolute;
+    width: 98px;
+    height: 64px;
+    top: 1577px;
+    left: 188px;
+}
+
+.GOAL .text-wrapper-4 {
+    width: 171px;
+    height: 43px;
+    top: 56px;
+    left: 66px;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-weight: 700;
+    color: #e2f163;
+    font-size: 40px;
+    line-height: 27.6px;
+    position: absolute;
+    letter-spacing: 0;
+}
+
+.GOAL .text-wrapper-5 {
+    position: absolute;
+    width: 29px;
+    height: 15px;
+    top: 72px;
+    left: 20px;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-weight: 700;
+    color: #e2f163;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 27.6px;
+    white-space: nowrap;
+}
+
+.GOAL .text-wrapper-6 {
+    position: absolute;
+    width: 228px;
+    height: 43px;
+    top: 56px;
+    left: 684px;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-weight: 700;
+    color: #e2f163;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 27.6px;
+}
+
+.GOAL .overlap-2 {
+    position: absolute;
+    width: 450px;
+    height: 72px;
+    top: 102px;
+    left: 497px;
+}
+
+.GOAL .active-body {
+    position: absolute;
+    width: 450px;
+    height: 40px;
+    top: 15px;
+    left: 0;
+    font-family: "Poppins-BoldItalic", Helvetica;
+    font-weight: 700;
+    font-style: italic;
+    color: #e2f163;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.GOAL .express {
+    position: absolute;
+    width: 70px;
+    height: 72px;
+    top: 0;
+    left: 380px;
+    object-fit: cover;
+}
+
+.GOAL .component-2 {
+    position: fixed;
+    top: 515px;
+    width: 569px;
+    height: 113px;
+    left: 437px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.GOAL .muscle-mass-gain {
+    position: absolute;
+    width: 347px;
+    height: 56px;
+    top: 26px;
+    left: 53px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--color-4);
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.GOAL .component-3 {
+    position: fixed;
+    top: 659px;
+    width: 569px;
+    height: 113px;
+    left: 437px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}

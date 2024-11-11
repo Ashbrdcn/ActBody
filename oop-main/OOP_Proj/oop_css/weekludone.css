@@ -1,0 +1,304 @@
+.home-page {
+    background-color: #232222;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.home-page .div {
+    background-color: #232222;
+    overflow: hidden;
+    width: 1444px;
+    height: 1034px;
+    position: relative;
+}
+
+.home-page .overlap {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 203px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .text-wrapper {
+    position: absolute;
+    width: 569px;
+    height: 51px;
+    top: 23px;
+    left: 87px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--color-4);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.home-page .vector {
+    top: -2483px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .overlap-group {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 346px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .img {
+    top: -2340px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .div-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 489px;
+    left: 1874px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .vector-2 {
+    top: -2197px;
+    left: -6258px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .shape-body-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 632px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .vector-3 {
+    top: -2055px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .overlap-2 {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 775px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .vector-4 {
+    top: -1912px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .arrow {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 48px;
+    left: 28px;
+}
+
+.home-page .user {
+    position: absolute;
+    width: 26px;
+    height: 28px;
+    top: 48px;
+    left: 1383px;
+}
+
+.home-page .text-wrapper-2 {
+    position: absolute;
+    height: 72px;
+    top: 25px;
+    left: 85px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--font-2);
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .group {
+    position: absolute;
+    width: 491px;
+    height: 450px;
+    top: 121px;
+    left: 476px;
+}
+
+.home-page .overlap-3 {
+    position: absolute;
+    width: 1444px;
+    height: 168px;
+    top: 629px;
+    left: 0;
+    background-color: var(--color-1);
+}
+
+.home-page .text-wrapper-3 {
+    position: absolute;
+    height: 54px;
+    top: 6px;
+    left: 572px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--color-4);
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .frame {
+    display: flex;
+    flex-direction: column;
+    width: 305px;
+    height: 54px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 11px 22px 11px 21px;
+    position: absolute;
+    top: 86px;
+    left: 572px;
+    background-color: #ffffff;
+    border-radius: 28.8px;
+    overflow: hidden;
+}
+
+.home-page .frame-2 {
+    display: inline-flex;
+    height: 36px;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+    margin-bottom: -4.00px;
+}
+
+.home-page .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.home-page .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    color: var(--color-4);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home-page .time {
+    position: relative;
+    width: 10px;
+    height: 10px;
+}
+
+.home-page .frame-4 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.home-page .calories {
+    position: relative;
+    width: 7.88px;
+    height: 10.5px;
+}
+
+.home-page .work-out {
+    position: relative;
+    width: 10.02px;
+    height: 11.32px;
+}
+
+.home-page .log-in {
+    position: absolute;
+    width: 309px;
+    height: 65px;
+    top: 810px;
+    left: 574px;
+    background-color: #896cfe;
+    border-radius: 30px;
+}
+
+.home-page .p {
+    position: absolute;
+    height: 18px;
+    top: 25px;
+    left: 52px;
+    font-family: "League Spartan-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--white);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home-page .log-in-wrapper {
+    position: absolute;
+    width: 309px;
+    height: 65px;
+    top: 900px;
+    left: 573px;
+    background-color: var(--color-1);
+    border-radius: 30px;
+}
+
+.home-page .log-in-2 {
+    position: absolute;
+    height: 22px;
+    top: 23px;
+    left: 125px;
+    font-family: "League Spartan-Medium", Helvetica;
+    font-weight: 500;
+    color: #896cfe;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}

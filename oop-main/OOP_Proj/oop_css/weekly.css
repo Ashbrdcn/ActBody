@@ -1,0 +1,222 @@
+.home-page {
+    background-color: #232222;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.home-page .div {
+    background-color: #232222;
+    overflow: hidden;
+    width: 1444px;
+    height: 1034px;
+    position: relative;
+}
+
+.home-page .overlap {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 203px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .text-wrapper {
+    position: absolute;
+    width: 569px;
+    height: 51px;
+    top: 23px;
+    left: 87px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--color-4);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+.home-page .vector {
+    top: 1006px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .overlap-group {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 346px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .img {
+    top: 1149px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .div-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 489px;
+    left: 1874px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .vector-2 {
+    top: 1292px;
+    left: -6258px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .shape-body-wrapper {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 632px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .vector-3 {
+    top: 1434px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .overlap-2 {
+    position: absolute;
+    width: 933px;
+    height: 102px;
+    top: 775px;
+    left: 1877px;
+    background-color: var(--font-2);
+    border-radius: 36px;
+}
+
+.home-page .vector-4 {
+    top: 1577px;
+    left: -6255px;
+    position: absolute;
+    width: 98px;
+    height: 64px;
+}
+
+.home-page .overlap-3 {
+    position: absolute;
+    width: 1444px;
+    height: 923px;
+    top: 111px;
+    left: 0;
+    background-color: #d9d9d9;
+    background-image: url(./img/bgm-main.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.home-page .overlap-4 {
+    position: absolute;
+    width: 1444px;
+    height: 203px;
+    top: 318px;
+    left: 0;
+    background-color: #b3a0ff;
+}
+
+.home-page .text-wrapper-2 {
+    position: absolute;
+    height: 72px;
+    top: 15px;
+    left: 498px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--font-2);
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .p {
+    position: absolute;
+    width: 695px;
+    top: 100px;
+    left: 374px;
+    font-family: "League Spartan-Light", Helvetica;
+    font-weight: 300;
+    color: var(--color-4);
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home-page .work-out {
+    position: absolute;
+    width: 74px;
+    height: 69px;
+    top: 19px;
+    left: 402px;
+}
+
+.home-page .group {
+    position: absolute;
+    width: 379px;
+    height: 121px;
+    top: 556px;
+    left: 533px;
+}
+
+.home-page .overlap-group-2 {
+    position: relative;
+    width: 385px;
+    height: 129px;
+    left: -4px;
+    background-image: url(./img/gradient-button.png);
+    background-size: 100% 100%;
+}
+
+.home-page .text-wrapper-3 {
+    position: absolute;
+    width: 253px;
+    top: 40px;
+    left: 66px;
+    font-family: "League Spartan-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home-page .arrow {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 48px;
+    left: 28px;
+}
+
+.home-page .user {
+    position: absolute;
+    width: 26px;
+    height: 28px;
+    top: 48px;
+    left: 1383px;
+}
